@@ -1,3 +1,4 @@
+Again deleted main and name
 MIT License
 
 Copyright (c) 2023 Colours Centre for Learning
